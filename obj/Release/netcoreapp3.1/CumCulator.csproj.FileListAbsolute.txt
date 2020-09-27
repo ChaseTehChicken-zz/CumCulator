@@ -1,0 +1,13 @@
+Z:\Documents\My Documents\Coding Crap\CSharp\Calculator2\CumCulator\bin\Release\netcoreapp3.1\CumCulator.exe
+Z:\Documents\My Documents\Coding Crap\CSharp\Calculator2\CumCulator\bin\Release\netcoreapp3.1\CumCulator.deps.json
+Z:\Documents\My Documents\Coding Crap\CSharp\Calculator2\CumCulator\bin\Release\netcoreapp3.1\CumCulator.runtimeconfig.json
+Z:\Documents\My Documents\Coding Crap\CSharp\Calculator2\CumCulator\bin\Release\netcoreapp3.1\CumCulator.runtimeconfig.dev.json
+Z:\Documents\My Documents\Coding Crap\CSharp\Calculator2\CumCulator\bin\Release\netcoreapp3.1\CumCulator.dll
+Z:\Documents\My Documents\Coding Crap\CSharp\Calculator2\CumCulator\bin\Release\netcoreapp3.1\CumCulator.pdb
+Z:\Documents\My Documents\Coding Crap\CSharp\Calculator2\CumCulator\obj\Release\netcoreapp3.1\CumCulator.csprojAssemblyReference.cache
+Z:\Documents\My Documents\Coding Crap\CSharp\Calculator2\CumCulator\obj\Release\netcoreapp3.1\CumCulator.AssemblyInfoInputs.cache
+Z:\Documents\My Documents\Coding Crap\CSharp\Calculator2\CumCulator\obj\Release\netcoreapp3.1\CumCulator.AssemblyInfo.cs
+Z:\Documents\My Documents\Coding Crap\CSharp\Calculator2\CumCulator\obj\Release\netcoreapp3.1\CumCulator.csproj.CoreCompileInputs.cache
+Z:\Documents\My Documents\Coding Crap\CSharp\Calculator2\CumCulator\obj\Release\netcoreapp3.1\CumCulator.dll
+Z:\Documents\My Documents\Coding Crap\CSharp\Calculator2\CumCulator\obj\Release\netcoreapp3.1\CumCulator.pdb
+Z:\Documents\My Documents\Coding Crap\CSharp\Calculator2\CumCulator\obj\Release\netcoreapp3.1\CumCulator.genruntimeconfig.cache
